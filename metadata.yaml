@@ -5,6 +5,9 @@ contributor:
     agent_name: Todhunter, Winifred
     gutenberg_agent_id: '56950'
     url: http://www.gutenberg.org/2009/agents/56950
+covers:
+- cover_type: archival
+  image_path: 73122-h/images/cover.jpg
 creator:
   author:
     agent_name: Voltaire
@@ -19,6 +22,8 @@ creator:
     - https://en.wikipedia.org/wiki/Voltaire
     - https://fr.wikipedia.org/wiki/Voltaire
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73122#Voltaire-s-history-of-Charles-XII-king-of-Sweden
 gutenberg_issued: '2024-03-08'
 gutenberg_type: Text
 identifiers:
